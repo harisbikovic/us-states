@@ -1,4 +1,4 @@
-# US States Game
+# US States
 
 Welcome to the US States Game! This is a simple game that tests your knowledge of US states. In this game, you will be shown a blank map of the United States and prompted to type in the name of a state. If you guess correctly, the name of the state will be displayed on the map. If you guess incorrectly, you will be prompted to try again.
 
